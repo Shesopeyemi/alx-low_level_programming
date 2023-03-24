@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_square printing a square
+ * print_square -  printing a square
  * @size: character to be checked
  * Return: returns nothing
  */
